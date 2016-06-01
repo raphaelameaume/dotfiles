@@ -1,5 +1,10 @@
 alias ehosts='sublime /etc/hosts'
 alias ebash='sublime ~/.bash_profile'
+alias ezsh='sublime ~/.zshrc'
+alias ealiases='sublime ~/.aliases'
+
+alias home='cd ~'
+alias www="cd ~/Documents/www"
 
 alias ns="npm i -S"
 alias nd="npm i -D"
