@@ -1,0 +1,13 @@
+{
+  "name": "dotfiles",
+  "version": "0.0.1",
+  "description": "OSX dotfiles",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dotfiles"
+  ],
+  "author": "Raphael Ameaume",
+  "license": "MIT"
+}
